@@ -1,5 +1,5 @@
 #!/usr/bin/node
-
+import { dict } from './101-data.js'
 const dict = require('./101-data').dict;
 const newDict = {};
 
